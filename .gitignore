@@ -1,0 +1,6 @@
+node_modules
+node_modules_back
+dist
+*.cache-loader
+*.DS_Store
+*.vscode
